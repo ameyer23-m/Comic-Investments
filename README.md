@@ -19,7 +19,8 @@ To streamline this analysis, I will concentrate solely on various comic series f
 
 ## Data Collection
 
-I intend to gather grade sales data from gocollect.com utilizing Python's data scraping methods. Additionally to find data on each series from Marvel and DC to randomly choose a series to investigate, I will scrape the list of series from Marvel (https://www.marvel.com/comics/series) and DC (https://www.dcuniverseinfinite.com/browse/comics?sort=eyJkZWZhdWx0Ijp0cnVlLCJkaXJlY3Rpb24iOiJkZXNjIiwiZmllbGQiOiJmaXJzdF9yZWxlYXNlZCJ9&category=W10%3D&page=5&series).
+I intend to gather grade sales data from [gocollect.com](https://www.gocollect.com) utilizing Python's data scraping methods. Additionally to find data on each series from Marvel and DC to randomly choose a series to investigate, I will scrape the list of series from [Marvel](https://www.marvel.com/comics/series) and [DC](https://www.dcuniverseinfinite.com/browse/comics).
+
 
 ## Comic Book Grading Scale
 
